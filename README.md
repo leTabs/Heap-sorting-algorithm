@@ -6,3 +6,4 @@ Continues by placing the value at the beggining and the end of the array respect
 The same proccess is repeated for the rest values in the array.
 As for the output, eventually, the first value will be the smallest and the last will be the largest.
  
+It can also be found in the Algorithmic Library Repository 
